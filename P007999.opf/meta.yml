@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W16079
   title: རཱ་མ་ཎའི་རྟོགས་བརྗོད།
-  volume: ''
+  volume:
+    de1edcc3d5d64a86a229f399fcccdfa4:
+      image_group_id: I1KG12348
+      title: Volume 1 of rA ma Na'i rtogs brjod/
+      volume_number: 1
+      total_pages: 206
   author: ''
+ebook_metadata:
+  title: རཱ་མ་ཎའི་རྟོགས་བརྗོད།
+  author: ''
+  sku: P007999
+  cover: cover.jpg
+  layers:
+  - pagination
