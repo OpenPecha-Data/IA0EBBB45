@@ -5,11 +5,12 @@ source_metadata:
   title: རཱ་མ་ཎའི་རྟོགས་བརྗོད།
   author: ''
   volumes:
-    209e4b7a696e44f99651958c2a8b7ede:
+    de1edcc3d5d64a86a229f399fcccdfa4:
       image_group_id: I1KG12348
-      title: ''
+      title: Volume 1 of rA ma Na'i rtogs brjod/
       volume_number: 1
       total_pages: 206
+      base_file: v001.txt
 ebook_metadata:
   title: རཱ་མ་ཎའི་རྟོགས་བརྗོད།
   author: ''
